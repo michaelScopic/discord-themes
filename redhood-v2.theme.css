@@ -63,8 +63,8 @@
   --dnd-color: #D50503;
   --streaming-color: #9123FC;
   --offline-color: #808080;
-  --main-font: azuki_font;
-  --code-font: AestheticIosevka;
+  --main-font: Ubuntu;
+  --code-font: JetBrains Mono;
   --channels-width: 220px;
   --members-width: 240px;
   --backdrop-overlay: rgba(0,0,0,0.8);
